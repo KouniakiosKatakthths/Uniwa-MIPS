@@ -20,18 +20,18 @@ This section will guide you on how to setup Visual Studio Code for VHDL. For com
 ### Linux
 1. In debian based distributions use: 
    ```bash
-    #Update package manager
-    sudo apt update
+   #Update package manager
+   sudo apt update
     
-    #Install dependencies
-    sudo apt install build-essential gnat zlib1g-dev
+   #Install dependencies
+   sudo apt install build-essential gnat zlib1g-dev
 
-    #Download the ghdl package
-    sudo apt install ghdl
+   #Download the ghdl package
+   sudo apt install ghdl
     
-    #Download the gtkwave package
-    sudo apt install gtkwave
-	```
+   #Download the gtkwave package
+   sudo apt install gtkwave
+   ```
     On other distros use the appropriate package manager.
 2. Compile the .vhd files using the following commands:
    ```bash
