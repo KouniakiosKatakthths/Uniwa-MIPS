@@ -21,7 +21,7 @@ This section will guide you on how to setup Visual Studio Code for VHDL. For com
 1. In debian based distributions use: 
    ```bash
    	#Update package manager
-    sudo apt update
+    	sudo apt update
     
 	#Install dependencies
 	sudo apt install build-essential gnat zlib1g-dev
