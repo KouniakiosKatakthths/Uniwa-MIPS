@@ -1,0 +1,15 @@
+# Uniwa MIPS
+This repository contains the implementation in VHDL of the microprocessor MIPS for the course of Design of Digital Systems in University of West Attika.
+Both the MIPS implementation and testbench are available along with graphs of the microprocessor and ALU controller.
+
+## How to use
+The VHDL code can be compiled using the Modelsim environment or **Visual Studio Code**.
+This section will guide you on how to setup Visual Studio Code for VHDL. For compiling VHDL the `GHDL` compiler is been used along with the `GTKWave` wave image program.
+
+### Windows
+1. Download the `GHDL` compiler for windows [here](http://ghdl.free.fr/download.html) and run the setup. If the `GHDL` is not included in the `PATH` variable, include it manually so you can access the compiler from Windows Terminal.
+2. In this tutorial the `GTKWave` program is used. Download `GTKWave` for Windows [here](https://sourceforge.net/projects/gtkwave/files/gtkwave-3.3.90-bin-win64/gtkwave-3.3.90-bin-win64.zip/download). After download is completed unzip the file and place it at your preferred location. Add the `gtkwave64/bin` in the `PATH` variable to access `GTKWave` from the Windows Terminal.
+3. Compile the .vhd files using: 
+```
+
+```
