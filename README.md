@@ -1,5 +1,5 @@
 # Uniwa MIPS
-This repository contains the implementation in VHDL of the microprocessor MIPS for the course of Design of Digital Systems in University of West Attika.
+This repository contains the implementation in VHDL of the microprocessor MIPS (Single-Cycle) for the course of Design of Digital Systems in University of West Attika.
 Both the MIPS implementation and testbench are available along with graphs of the microprocessor and ALU controller.
 
 ## How to use
